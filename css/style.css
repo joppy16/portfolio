@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.nav-list{
+  list-style: none;
+}
+
+.nav-list > li{
+  width: 100%;
+  height: 10%;
+}
+
+.hamburger{
+  height: 100%;
+  width: 100%;
+}
+
+.hamburger > div{
+  height: 10%;
+  width: 100%;
+  background: white;
+
+}
